@@ -38,3 +38,4 @@ const db = new Database({
     database: process.env.DB_NAME,
     insecureAuth : true
 });
+
